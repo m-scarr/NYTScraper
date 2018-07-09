@@ -1,3 +1,5 @@
+NOTE: made some mistake while backicng this up, my front end is missing, will fix soon.
+
 # New York Times Scraper
 This Was one of my first full stack applications, using MERN. It also utilizes the New York Times API. It searches articles between 
 certain dates. You can then save the articles, and make little comments on them.
